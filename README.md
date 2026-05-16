@@ -59,9 +59,9 @@ Goal:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizsheikh-offical&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=00FFFF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=faizsheikh-offical&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsheikh-offical&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8A2BE2"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsheikh-offical&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
