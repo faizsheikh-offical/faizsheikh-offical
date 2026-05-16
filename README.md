@@ -58,10 +58,7 @@ Goal:
 # 📊 GitHub Analytics
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=faizsheikh-offical&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsheikh-offical&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faizsheikh-offical&theme=tokyonight" width="100%"/>
 
 </div>
 
