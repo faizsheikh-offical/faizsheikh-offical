@@ -16,24 +16,50 @@
 
 # ⚡ About Me
 
+<div align="center">
+
+<table>
+<tr>
+<td width="100%">
+
 ```yaml
-Name: Muhammad Faiz Sheikh
-Username: faizsheikh-offical
-Location: Karachi, Pakistan
-Agency: Advantage Solutions
-
-Specialization:
-  - AI Automation
-  - Digital Marketing
-  - Lead Generation Systems
-  - Web Development
-  - Python Learning
-
-Current Goal:
-  - Build scalable AI-powered businesses
-  - Master automation systems
-  - Become advanced full stack developer
+┌──────────────────────────────────────────────┐
+│              FAIZ SHEIKH                     │
+├──────────────────────────────────────────────┤
+│ Username    : faizsheikh-offical            │
+│ Location    : Karachi, Pakistan             │
+│ Agency      : Advantage Solutions           │
+├──────────────────────────────────────────────┤
+│ Specialization                              │
+│                                              │
+│  ◉ AI Automation Systems                    │
+│  ◉ Digital Marketing                        │
+│  ◉ Lead Generation Systems                  │
+│  ◉ Full Stack Development                   │
+│  ◉ Python Automation                        │
+├──────────────────────────────────────────────┤
+│ Current Mission                              │
+│                                              │
+│  ◎ Building scalable AI systems             │
+│  ◎ Growing automation agency                │
+│  ◎ Learning future-proof skills             │
+│  ◎ Becoming advanced developer              │
+└──────────────────────────────────────────────┘
 ```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI_AUTOMATION-6A00FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117" />
+
+<img src="https://img.shields.io/badge/FUTURE_SYSTEMS-00E5FF?style=for-the-badge&logo=cloudflare&logoColor=0D1117&labelColor=111827" />
+
+<img src="https://img.shields.io/badge/FULL_STACK_DEV-111827?style=for-the-badge&logo=github&logoColor=8A2BE2&labelColor=0D1117" />
+
+</div>
 
 ---
 
