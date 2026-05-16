@@ -12,29 +12,73 @@
 
 # 🧠 About Me
 
-```yaml
-Name: Muhammad Faiz Sheikh
-Username: faizsheikh-offical
-Location: Karachi, Pakistan
-Agency: Advantage Solutions
+- 👨‍💻 Muhammad Faiz Sheikh
+- 📍 Karachi, Pakistan
+- 🚀 Founder at Advantage Solutions
+- 🤖 Learning AI Automation & Development
+- 🌐 Focused on future-proof digital skills
 
-Focus:
-  - AI Automation
-  - Lead Generation
-  - Digital Marketing
-  - Python Learning
-  - Web Development
-⚒️ Tech Stack
-<div align="center"> <img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,mongodb,github,vscode,linux,figma" /> </div>
-📊 GitHub Analytics
-<div align="center"> <img height="170" src="https://github-readme-stats.vercel.app/api?username=faizsheikh-offical&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsheikh-offical&layout=compact&theme=tokyonight&hide_border=true" /> </div>
-🔥 GitHub Streak
-<div align="center"> <img src="https://streak-stats.demolab.com?user=faizsheikh-offical&theme=tokyonight&hide_border=true" /> </div>
-🚀 Current Mission
-Building AI-powered systems
-Learning future-proof skills
-Growing digital businesses
-Mastering automation & development
-🌐 Connect With Me
-<div align="center"> <a href="https://github.com/faizsheikh-offical"> <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="mailto:faizsheikh3000@gmail.com"> <img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=140&section=footer"/> </div> ```
+---
+
+# ⚒️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,html,css,javascript,react,nodejs,mongodb,github,vscode,linux,figma" />
+
+</div>
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=faizsheikh-offical&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faizsheikh-offical&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=faizsheikh-offical&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🚀 Current Mission
+
+✔ Building AI-powered systems  
+✔ Learning scalable future-proof skills  
+✔ Growing digital businesses  
+✔ Mastering automation & development  
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/faizsheikh-offical">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:faizsheikh3000@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-8A2BE2?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=140&section=footer"/>
+
+</div>
