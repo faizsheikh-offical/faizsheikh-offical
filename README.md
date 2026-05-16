@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MUHAMMAD%20FAIZ%20SHEIKH&fontSize=52&fontAlign=50&fontAlignY=38&animation=fadeIn&fontColor=8A2BE2&color=0:0f0c29,50:302b63,100:24243e" width="100%" />
