@@ -24,27 +24,26 @@
 
 <table>
 <tr>
-<td>
+<td width="50%">
 
-```yaml
-Name        : Muhammad Faiz Sheikh
-Username    : faizsheikh-offical
-Location    : Karachi, Pakistan
-Agency      : Advantage Solutions
+### 👨‍💻 Profile
 
-Expertise:
-  - AI Automation Systems
-  - Digital Marketing
-  - Lead Generation
-  - Full Stack Development
-  - Python Automation
+- **Name:** Muhammad Faiz Sheikh  
+- **Username:** faizsheikh-offical  
+- **Location:** Karachi, Pakistan  
+- **Agency:** Advantage Solutions  
 
-Current Focus:
-  - Building scalable AI systems
-  - Growing automation agency
-  - Learning future-proof technologies
-  - Becoming advanced developer
-```
+</td>
+
+<td width="50%">
+
+### 🚀 Specialization
+
+- AI Automation Systems  
+- Digital Marketing  
+- Lead Generation  
+- Full Stack Development  
+- Python Automation  
 
 </td>
 </tr>
@@ -52,11 +51,26 @@ Current Focus:
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI_AUTOMATION-6A00FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0D1117"/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/FUTURE_SYSTEMS-00E5FF?style=for-the-badge&logo=cloudflare&logoColor=0D1117&labelColor=111827"/>
+<img src="https://img.shields.io/badge/AI_AUTOMATION-6A00FF?style=for-the-badge&logo=openai&logoColor=white&labelColor=0B1026"/>
 
-<img src="https://img.shields.io/badge/FULL_STACK_DEV-111827?style=for-the-badge&logo=github&logoColor=8A2BE2&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/FUTURE_SYSTEMS-00E5FF?style=for-the-badge&logo=cloudflare&logoColor=0B1026&labelColor=111827"/>
+
+<img src="https://img.shields.io/badge/FULL_STACK_DEV-111827?style=for-the-badge&logo=github&logoColor=8A2BE2&labelColor=0B1026"/>
+
+</div>
+
+<br/>
+
+### 🎯 Current Mission
+
+```diff
++ Building scalable AI systems
++ Growing automation agency
++ Learning future-proof technologies
++ Becoming advanced full stack developer
+```
 
 </div>
 ---
