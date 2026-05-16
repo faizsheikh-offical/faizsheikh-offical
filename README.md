@@ -17,7 +17,7 @@
 
 # ⚡ About Me
 
-```yaml
+ yaml
 Name: Muhammad Faiz Sheikh
 Username: faizsheikh-offical
 Location: Karachi, Pakistan
@@ -41,7 +41,7 @@ Goal:
   - Build high-income AI systems
   - Create scalable automation businesses
   - Become elite full stack developer
-```
+
 
 ---
 
